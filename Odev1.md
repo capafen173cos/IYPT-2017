@@ -1,21 +1,22 @@
 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
+
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+9-A  | Sevde Yıldız | 530
+9-A  | Özdenur Bayar | 558
+9-A  | Ceren Uzun | 561
 
-#  (buraya proje başlığını yazınız)
+#  (Wet And Dark)
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+Güneşli günlerde soğuk bir şeyler içerken birden üstümüze su döküldüğünde hemen onu temizlemeye çalışırız.Bunun nedeninin sıvı bir şeyin herhangi bir kumaşa döküldüğünde o dökülen yerin dökülmeyen yerlere oranla daha koyu ve belirgin iz bırakmış olduğunu görürüz.Bu olay sadece bilinçli sıvı dökülmelerinde değil günlük hayatımızda oluşan doğal olaylarda da karşımıza çıkar.Örneğin gün içinde terlediğimizde kıyafetimizin terleme olan bölgelerinde iz olur.Bunların hepsi sıvıların kumaş ile etkileşime geçip sonunda gözümüze o bölgenin daha koyu gözükmesi ile ilgilidir.Biz de bu olayı araştırmak için IYPT’nin 28. Yılı (2015) 16 numaralı “Wet and Dark”(Islak ve Koyu)  sorusunu projemiz olarak seçtik.Projemizin amacı üstte de belirttiğimiz gibi sıvı maddelerin kumaş ile temas etmesi sonucu temas eden yerin gözümüze koyu görünmesinin sebebidir.Araştırmamızı yaparken bu olaya etki eden (fiziksel) etmenleri araştıracağız(Örneğin koyu görmemizin nedeni ışık olabilir mi ? şeklinde).Bu etmenleri değiştirerek olayda ne gibi değişiklikler olduğunu gözlemleyip her bir olayın çıkarımını görseller ile birlikte rapora aktaracağız.Aynı zamanda deneyimizi yaparken kullandığımız maddelerin çeşidini değiştirip(Örneğin kumaş kullanacaksak ilk deneyde yün kumaş , ikinci deneyde ipek kumaş şeklinde) deney sonucunda ne kadar değişiklik olduğunu yine görseller ile birlikte rapora aktaracağız.Kısaca deneyimizi yaparken dış ve maddesel etmenleri de işin içine katarak deneyimizi destekleyeceğiz.Deneyimizi yaparken yerli ve yabancı kaynaklardan yararlanıp oradan aldığımız bilgileri kendi deneyimize göre yorumlandıracağız.Deneyimizin raporunda sadece yazıyla sınırlı kalmayıp sıvı maddelerin kumaş maddeler ile etkileşiminde rengin neden koyulaştığını deney anındaki görseller ,slaytlar ve daha birçok dosyayla kanıtlayacağız.Yararlanacağımız kaynaklara aşağıdaki linklerden bakabilirsiniz.
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+
+ 1.https://www.quora.com/Why-do-clothes-get-dark-when-they-get-wet
+ 2. https://www.youtube.com/watch?v=wRsprwNpSbE
+ 3.https://www.scienceabc.com/eyeopeners/why-do-clothes-appear-darker-when-they-get-wet.html
+
 
