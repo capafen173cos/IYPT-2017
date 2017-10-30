@@ -41,3 +41,5 @@ Sınıf | Öğrenci İsmi  | Numara
 6.http://trulyscience.com/articles.php?id=1
 
 7.http://www.sciencefocus.com/qa/why-does-hair-get-darker-when-wet
+
+8.https://physics.stackexchange.com/questions/30366/why-do-wet-objects-become-darker
