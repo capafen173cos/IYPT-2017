@@ -30,9 +30,11 @@ Sınıf | Öğrenci İsmi  | Numara
 
 1.https://www.quora.com/Why-do-clothes-get-dark-when-they-get-wet
 
-2. https://www.youtube.com/watch?v=wRsprwNpSbE
+2.https://www.youtube.com/watch?v=wRsprwNpSbE
 
 3.https://www.scienceabc.com/eyeopeners/why-do-clothes-appear-darker-when-they-get-wet.html
 
 4.http://solutions.iypt.org/uploads/2015_RU_Wet_and_dark_Nikita_Grushetsky_Maria_Mukhina_Egor_Shamanov_1441073708.pdf
+
+5.https://van.physics.illinois.edu/qa/listing.php?id=21080
 
