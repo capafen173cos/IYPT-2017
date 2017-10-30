@@ -38,3 +38,4 @@ Sınıf | Öğrenci İsmi  | Numara
 
 5.https://van.physics.illinois.edu/qa/listing.php?id=21080
 
+6.http://trulyscience.com/articles.php?id=1
